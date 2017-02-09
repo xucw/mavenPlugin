@@ -2,13 +2,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.yhd.arch</groupId>
   <artifactId>mavenPlugin</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   
   <scm>
         <connection>scm:git:git@github.com:xucw/mavenPlugin.git</connection>
         <developerConnection>scm:git:git@github.com:xucw/mavenPlugin.git</developerConnection>
         <url>git@github.com:xucw/mavenPlugin.git</url>
-        <tag>mavenPlugin-1.0.0</tag>
+        <tag>test-1.0.0</tag>
     </scm>
   
   <build>
